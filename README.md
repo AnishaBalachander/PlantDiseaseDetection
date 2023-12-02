@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Plant Disease Detection System, a powerful tool designed to diagnose and monitor diseases affecting Potato, Tomato, and Bell Pepper leaves. Leveraging state-of-the-art Convolutional Neural Network (CNN) technology implemented with TensorFlow, our system provides accurate and efficient image recognition for plant health assessment.
+Plant Disease Detection System, is a powerful tool designed to diagnose and monitor diseases affecting Potato, Tomato, and Bell Pepper leaves. Leveraging state-of-the-art Convolutional Neural Network (CNN) technology implemented with TensorFlow, our system provides accurate and efficient image recognition for plant health assessment.
 
 ## Features
 
